@@ -1,3 +1,9 @@
+
+Forked from https://github.com/janvincentharre/spec2col
+to see what the result would be for the Sun through atmospheric extinction
+
+original README below:
+
 In order to use spec2col.py you need:
 -cmf_precise.txt
 -a "spectra" folder containing your chosen PHOENIX spectra (see line 12 in this file) in a ".fits" format or 
